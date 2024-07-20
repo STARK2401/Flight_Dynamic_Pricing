@@ -1,0 +1,7 @@
+LOAD DATABASE
+    FROM mysql://root:musounohitotachi@localhost:3306/airline_project
+    INTO postgresql://root:vpMlXFrEMpyL3IBo7nwIOeP75FJB0haU@dpg-cqcl5ao8fa8c73csl620-a.singapore-postgres.render.com/airline_project
+
+WITH include no drop, create tables, create indexes, reset sequences
+
+SET work_mem to '64MB', maintenance_work_mem to '1GB';

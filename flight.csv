@@ -1,0 +1,15 @@
+,unique_id,source,destination,flight_date,price,flight_name,arrival,departure,duration,no_of_seats
+0,A1I24,kolkata,mumbai,2024-07-20,"{'Economy': 642.9816315597141, 'Business': 962.7943941764748, 'First Class': 1215.6048811733328}",AirIndia,05:58,16:57,4h 45m,122
+1,A3I24,delhi,chennai,2024-07-31,"{'Economy': 729.3873213001413, 'Business': 1024.0572626447233, 'First Class': 1318.329187596759}",AirIndia,00:52,17:38,2h 58m,106
+2,A1I47,mumbai,delhi,2024-08-07,"{'Economy': 605.1622258841054, 'Business': 866.6718291401155, 'First Class': 1205.3914863523914}",AirIndia,08:22,12:30,2h 13m,90
+3,A5I89,chennai,kolkata,2024-08-12,"{'Economy': 514.8176637518917, 'Business': 821.7366042030231, 'First Class': 1492.8429811513597}",AirIndia,18:34,22:48,4h 9m,63
+4,S4J51,delhi,mumbai,2024-08-01,"{'Economy': 538.1647982573128, 'Business': 865.480008299577, 'First Class': 1406.5789635258714}",SpiceJet,02:51,07:08,2h 36m,147
+5,S7J89,chennai,delhi,2024-08-04,"{'Economy': 526.4068076737636, 'Business': 932.6625926327538, 'First Class': 1209.5298061670214}",SpiceJet,21:58,19:27,5h 57m,86
+6,S1J56,kolkata,chennai,2024-08-17,"{'Economy': 627.4352746951233, 'Business': 900.3369001590935, 'First Class': 1711.309391937358}",SpiceJet,15:38,17:17,2h 1m,174
+7,I7G48,mumbai,chennai,2024-08-02,"{'Economy': 636.0060922386579, 'Business': 886.1383947952527, 'First Class': 1369.3577171357272}",IndiGo,23:15,05:12,5h 25m,113
+8,I2G14,delhi,kolkata,2024-07-25,"{'Economy': 626.0670376667634, 'Business': 925.2394567708507, 'First Class': 1446.2074126572859}",IndiGo,05:50,05:22,5h 40m,146
+9,I5G12,chennai,mumbai,2024-07-27,"{'Economy': 716.1956506841944, 'Business': 942.1992002007638, 'First Class': 1407.9072623047675}",IndiGo,19:50,18:14,1h 45m,172
+10,A7A14,kolkata,delhi,2024-08-03,"{'Economy': 654.6832805415402, 'Business': 851.0179555986422, 'First Class': 1716.6056685636627}",AirAsia,10:41,13:18,2h 42m,181
+11,A8A45,mumbai,kolkata,2024-07-21,"{'Economy': 707.593983619295, 'Business': 982.11208778832, 'First Class': 1406.3882454957932}",AirAsia,01:29,13:48,1h 13m,176
+12,E1136,delhi,mumbai,2024-08-08,"{'Economy': 568.9887599264644, 'Business': 955.662641583919, 'First Class': 1332.8506064640007}",Emirates,17:25,22:51,4h 20m,117
+13,E1247,chennai,delhi,2024-08-14,"{'Economy': 533.9940947121495, 'Business': 894.8630366908809, 'First Class': 1371.9785300693895}",Emirates,15:18,18:31,3h 5m,158
